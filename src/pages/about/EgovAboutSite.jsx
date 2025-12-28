@@ -11,7 +11,7 @@ function EgovAboutSite() {
                 <div className="location">
                     <ul>
                         <li><Link to="" className="home">Home</Link></li>
-                        <li><Link to="">사이트 소개</Link></li>
+                        <li><Link to="">전자정부프레임워크 사이트 소개</Link></li>
                         <li>소개</li>
                     </ul>
                 </div>

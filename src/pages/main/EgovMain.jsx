@@ -110,7 +110,7 @@ function EgovMain(props) {
                         <div className="mini_board">
                             <ul className="tab">
                                 <li><a href="#공지사항" className="on">공지사항</a></li>
-                                <li><a href="#갤러리">갤러리</a></li>
+                                <li><a href="#갤러리">갤러리(백창호)</a></li>
                             </ul>
                             <div className="list">
                                 <div className="notice">
